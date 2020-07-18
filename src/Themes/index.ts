@@ -1,4 +1,4 @@
-const theme = {
+const Themes = {
   spacings: {
     footer: 4,
     navbar: 3,
@@ -6,4 +6,4 @@ const theme = {
   }
 }
 
-export default theme
+export default Themes
